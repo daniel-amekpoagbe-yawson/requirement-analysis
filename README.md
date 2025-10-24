@@ -99,19 +99,49 @@ Examples:
 
 ---
 
-## Use Case Diagrams
+## 🧩 Use Case Diagrams
 
-Use Case Diagrams visually represent how users (actors) interact with the system.
+**Use Case Diagrams** are a vital part of Requirement Analysis.  
+They visually represent the **interactions between system actors (users or external systems)** and the **functionalities (use cases)** of the system.
 
-They help in:
+Use case diagrams help teams to:
 
-- Understanding user-system relationships.
-- Identifying core functionalities.
-- Communicating requirements clearly to both business and technical teams.
+- Understand how users will interact with the system.
+- Identify the major system processes early in development.
+- Communicate system scope clearly between business and technical teams.
+- Detect missing or overlapping functionalities before implementation.
 
-Below is the use case diagram for the **Booking Management System**:
+---
 
-## ![Use Case Diagram for Booking System](./assets/alx-booking-uc.png)
+### 🎯 Booking Management System — Use Case Diagram
+
+Below is a use case diagram illustrating the main interactions in a **Booking Management System**.
+
+**Actors:**
+
+- **Guest (User):** Searches rooms, books rooms, and makes payments.
+- **Admin:** Manages bookings and views reports.
+- **Payment Gateway:** Processes online payments.
+
+**Use Cases:**
+
+- Search Rooms
+- Book Room
+- Make Payment
+- Receive Confirmation
+- Manage Bookings
+- View Reports
+
+---
+
+### 🖼️ Use Case Diagram Illustration
+
+![Use Case Diagram for Booking Management System](./assets/alx-booking-uc.png)
+
+> **File Name:** `alx-booking-uc.png`  
+> **Created with:** Draw.io (or equivalent design tool)
+
+---
 
 ## Acceptance Criteria
 
@@ -134,8 +164,6 @@ They serve as:
 3. A successful transaction should generate a confirmation email within 2 minutes.
 4. In case of payment failure, the user should receive an appropriate error message.
 5. The booking record should be updated in real-time in the system database.
-
----
 
 ---
 
