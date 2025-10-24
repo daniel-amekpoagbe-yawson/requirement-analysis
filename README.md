@@ -96,3 +96,17 @@ Examples:
 - **Usability:** The interface must be mobile-responsive and intuitive.
 
 ---
+
+## Use Case Diagrams
+
+Use Case Diagrams visually represent how users (actors) interact with the system.
+
+They help in:
+
+- Understanding user-system relationships.
+- Identifying core functionalities.
+- Communicating requirements clearly to both business and technical teams.
+
+Below is the use case diagram for the **Booking Management System**:
+
+![Use Case Diagram for Booking System](./assets/alx-booking-uc.png)
