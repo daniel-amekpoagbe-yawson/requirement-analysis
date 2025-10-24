@@ -109,4 +109,28 @@ They help in:
 
 Below is the use case diagram for the **Booking Management System**:
 
-![Use Case Diagram for Booking System](./assets/alx-booking-uc.png)
+## ![Use Case Diagram for Booking System](./assets/alx-booking-uc.png)
+
+## Acceptance Criteria
+
+**Acceptance Criteria** define the conditions that a software feature must meet to be accepted by the product owner or client.
+
+They serve as:
+
+- A guide for developers to know when a feature is “done.”
+- A testing benchmark for QA teams.
+- A way to ensure user and business expectations are met.
+
+### Example: Checkout Feature
+
+**Feature:** Booking Checkout and Payment
+
+**Acceptance Criteria:**
+
+1. The user must be able to view a booking summary before payment.
+2. The system should integrate securely with a payment gateway (e.g., Paystack).
+3. A successful transaction should generate a confirmation email within 2 minutes.
+4. In case of payment failure, the user should receive an appropriate error message.
+5. The booking record should be updated in real-time in the system database.
+
+---
