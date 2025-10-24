@@ -134,3 +134,14 @@ They serve as:
 5. The booking record should be updated in real-time in the system database.
 
 ---
+
+---
+
+### 🧾 Summary
+
+This project provides a structured approach to the **Requirement Analysis** phase of SDLC using a **Booking Management System** as a case study.  
+It demonstrates industry best practices in requirement documentation, analysis, and modeling.
+
+> 💼 Prepared by: ### Daniel Amekpoaggbe Yawson
+> 📅 Date: October 2025  
+> 🚀 ALX FeatureForge Project
