@@ -44,3 +44,55 @@ Here are three key reasons why it matters:
 
 4. **Improved Quality and User Satisfaction:**  
    When software meets exact user expectations, it enhances satisfaction and trust.
+
+---
+
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis process involves several structured activities:
+
+- **Requirement Gathering:**  
+  Collecting information from stakeholders through interviews, surveys, and observations.
+
+- **Requirement Elicitation:**  
+  Interpreting and understanding the gathered data to uncover real user needs.
+
+- **Requirement Documentation:**  
+  Clearly recording the requirements in structured documents or user stories.
+
+- **Requirement Analysis and Modeling:**  
+  Analyzing the relationships, dependencies, and feasibility of requirements; often represented through models or diagrams.
+
+- **Requirement Validation:**  
+  Reviewing requirements with stakeholders to confirm accuracy, completeness, and feasibility.
+
+---
+
+## Types of Requirements
+
+Requirements are generally classified into two categories: **Functional** and **Non-functional Requirements.**
+
+### Functional Requirements
+
+These define _what_ the system should do.
+
+Examples for the Booking Management System:
+
+- Users can **search and view available rooms** based on date and location.
+- Users can **book a room** and receive confirmation via email.
+- Admins can **add, edit, or delete** rooms and booking details.
+- The system should **generate booking reports** for management.
+
+### Non-functional Requirements
+
+These describe _how_ the system performs its functions.
+
+Examples:
+
+- **Performance:** The system should load pages within 2 seconds.
+- **Security:** All user passwords must be encrypted using modern hashing algorithms.
+- **Scalability:** The system should handle at least 10,000 concurrent bookings.
+- **Availability:** The system must maintain 99.9% uptime.
+- **Usability:** The interface must be mobile-responsive and intuitive.
+
+---
