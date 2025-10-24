@@ -142,6 +142,6 @@ They serve as:
 This project provides a structured approach to the **Requirement Analysis** phase of SDLC using a **Booking Management System** as a case study.  
 It demonstrates industry best practices in requirement documentation, analysis, and modeling.
 
-> 💼 Prepared by: ### Daniel Amekpoaggbe Yawson
+> 💼 Prepared by: Daniel Amekpoaggbe Yawson
 > 📅 Date: October 2025  
 > 🚀 ALX FeatureForge Project
