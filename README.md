@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Requirement Analysis in Software Development
 
 This repository explores the **Requirement Analysis phase** in the Software Development Life Cycle (SDLC).  
