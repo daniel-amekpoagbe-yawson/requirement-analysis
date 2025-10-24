@@ -136,7 +136,7 @@ Below is a use case diagram illustrating the main interactions in a **Booking Ma
 
 ### 🖼️ Use Case Diagram Illustration
 
-![Use Case Diagram for Booking Management System](./assets/alx-booking-uc.png)
+![Use Case Diagram for Booking Management System](./alx-booking-uc.png)
 
 > **File Name:** `alx-booking-uc.png`  
 > **Created with:** Draw.io
